@@ -101,4 +101,4 @@ Queries assume table and column names as defined in the schema; adapt if you mod
 
 To load local files, make sure your MySQL server’s local_infile system variable is enabled.
 
-License
+
